@@ -1,0 +1,1 @@
+possibilities=["stone","paper","scissor"]
